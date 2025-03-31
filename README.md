@@ -1,2 +1,3 @@
-# NNPTUD_S2
-# Vào nhánh mỗi ngày để lấy code
+## NNPTUD_S2
+## Lê Duy
+## 2180608271
